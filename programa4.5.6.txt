@@ -1,0 +1,6 @@
+4.se ejecutara 3 veces y como j=1 mas 3 veces se imprime j=4.
+
+5.solo se imprime el j=6 por que i-0 y i<0 no entonces solo imprime.
+
+
+6.se ejecuta una vez aumenta j=9 y i=1 y cuando va por el while no se cumple la condicion y se imprime j=9.
